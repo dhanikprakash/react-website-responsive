@@ -2,7 +2,7 @@
   "name": "react-website-1",
   "version": "0.1.0",
   "private": true,
-   "homepage": "https://dhanikprakash.github.io/react-website-responsive",
+   "homepage": "https://dhanikprakash.github.io/react-website-responsive/",
   "dependencies": {
     "-": "0.0.1",
     "@testing-library/jest-dom": "^5.11.4",
