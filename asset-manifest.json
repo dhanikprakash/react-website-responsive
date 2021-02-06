@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "/react-website-responsive/static/css/main.9dc36c97.chunk.css",
-    "main.js": "/react-website-responsive/static/js/main.85f6c56e.chunk.js",
-    "main.js.map": "/react-website-responsive/static/js/main.85f6c56e.chunk.js.map",
+    "main.js": "/react-website-responsive/static/js/main.43de1bdf.chunk.js",
+    "main.js.map": "/react-website-responsive/static/js/main.43de1bdf.chunk.js.map",
     "runtime-main.js": "/react-website-responsive/static/js/runtime-main.fd07c721.js",
     "runtime-main.js.map": "/react-website-responsive/static/js/runtime-main.fd07c721.js.map",
-    "static/js/2.843f6307.chunk.js": "/react-website-responsive/static/js/2.843f6307.chunk.js",
-    "static/js/2.843f6307.chunk.js.map": "/react-website-responsive/static/js/2.843f6307.chunk.js.map",
+    "static/js/2.131d633f.chunk.js": "/react-website-responsive/static/js/2.131d633f.chunk.js",
+    "static/js/2.131d633f.chunk.js.map": "/react-website-responsive/static/js/2.131d633f.chunk.js.map",
     "index.html": "/react-website-responsive/index.html",
     "static/css/main.9dc36c97.chunk.css.map": "/react-website-responsive/static/css/main.9dc36c97.chunk.css.map",
-    "static/js/2.843f6307.chunk.js.LICENSE.txt": "/react-website-responsive/static/js/2.843f6307.chunk.js.LICENSE.txt"
+    "static/js/2.131d633f.chunk.js.LICENSE.txt": "/react-website-responsive/static/js/2.131d633f.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.fd07c721.js",
-    "static/js/2.843f6307.chunk.js",
+    "static/js/2.131d633f.chunk.js",
     "static/css/main.9dc36c97.chunk.css",
-    "static/js/main.85f6c56e.chunk.js"
+    "static/js/main.43de1bdf.chunk.js"
   ]
 }
