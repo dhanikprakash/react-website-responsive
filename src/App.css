@@ -5,9 +5,32 @@
   font-family: 'PT Sans', sans-serif;
 }
 
-.home,
-.services,
-.products,
+.services {
+  background-image: url('https://dhanikprakash.github.io/react-website-responsive/images/img-2.jpg');
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: #fff;
+  font-size: 100px;
+}
+
+.products {
+  background-image: url('https://dhanikprakash.github.io/react-website-responsive/images/img-1.jpg');
+  background-position: center;
+  background-size: fill;
+  background-repeat: no-repeat;
+  color: #fff;
+  font-size: 100px;
+}
+
+.sign-up {
+  background-image: url('https://dhanikprakash.github.io/react-website-responsive/images/img-8.jpg');
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: #fff;
+  font-size: 100px;
+}
 .sign-up {
   display: flex;
   height: 90vh;
