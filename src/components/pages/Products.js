@@ -1,11 +1,11 @@
 import React from 'react';
 import '../../App.css';
-import Cards from '../Cards';
+import Cards_v2 from '../Cards_v2';
 import Footer from '../Footer';
 
 export default function Products() {
   return (<> 
-  <Cards />
+  <Cards_v2 />
     <Footer />
     </>);
 }
